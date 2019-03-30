@@ -16,16 +16,16 @@
     var donut = donutChart()
         .width(1200)
         .height(600)
-        .cornerRadius(3) // sets how rounded the corners are on each slice
-        .padAngle(0.015) // effectively dictates the gap between slices
+        .cornerRadius(3)
+        .padAngle(0.015)
         .variable('BusinessIndex')
         .category('State');
 
     d3.tsv('state.tsv', function(error, data) {
         if (error) throw error;
         d3.select('#chart')
-            .datum(data) // bind data to the div
-            .call(donut); // draw chart in div
+            .datum(data)
+            .call(donut); 
     });
 
 </script>

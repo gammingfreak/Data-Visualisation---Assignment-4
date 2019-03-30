@@ -2,9 +2,7 @@
 
 <title>Data Visualisation Assignment</title>
 <style>
-.body{
-  width=100%;
-}
+
 .HTML_Heading{
  font-weight: bold;
  font-size: 46px;
@@ -13,9 +11,12 @@ text-align: center;
 }
 .heading{
  font-weight: bold;
- font-size: 25px;
+ font-size: 22px;
  margin-left: 22%;
  margin-top:3%;
+ border-style: solid;
+ border-width: 1px;
+  width: 1150px;
 }
 .text{
  font-size: 16px;
@@ -53,27 +54,30 @@ text-align: center;
 }
 </style>
 <body class="body" bgcolor="#FFFFF0">
-
-<p class="HTML_Heading">
-  Yelp Academic Dataset - Data Visualisation
 </br>
-<img src="img/restaurants-icon.jpg"  height="100" width="100">
-<img src="img/medic.png"  height="100" width="100">
-<img src="img/icons8-hospital-3-100.png"  height="100" width="100">
-<img src="img/martini.png"  height="100" width="100">
+<p class="HTML_Heading">
+  <img src="img/restaurants-icon.jpg"  height="100" width="100"> &nbsp&nbsp&nbsp
+  <img src="img/medic.png"  height="100" width="100">&nbsp&nbsp&nbsp&nbsp
+  <img src="img/icons8-hospital-3-100.png"  height="100" width="100">&nbsp&nbsp&nbsp
+  <img src="img/martini.png"  height="100" width="100">
+</br></br>
+  Yelp Academic Dataset - Data Visualisation
+  </br>
+</br>
 </p>
-<p class="heading">Donut chart of states by Business Index*</p>
+<p class="heading"></br>&nbsp&nbsp&#8226; Donut chart of states by Business Index*<br></br></p>
 <p><embed class="Donut" src="donut/index.html"/></p>
 <p class="text"> The donut chat helps to identify the states with higest business index. Therefore we focus the data analysis to the top two businesses i.e. (Arizona and Nevada)</p>
-<p class="heading">Sankey Chart - Flow of Reviews from States - Cities - Categories</p>
+<p class="heading"></br>&nbsp&nbsp&#8226;Sankey Chart - Flow of Reviews from States - Cities - Categories<br></br></p>
 
 <p><embed class="Sankey" src="Sankey/Sankey.html"/></p>
 <p class="text">
 The Sankey chart shows the flow of the Business Index* from State to City to the Categories of businesses</br>
 *Business Index = SUM(Stars of the businesses)/SUM(ReviewCount)</p>
-<p class="heading">Group Bar Graph of Categories and States</p>
-<p class="text">Group Bar graph of categories to compare Arizona against Nevada in the number of businesses in each state</p>
+<p class="heading"></br>&nbsp&nbsp&#8226; Group Bar Graph of Categories and States<br></br></p>
+
 <p><embed class="bar" src="Barchart/barchart.html"/></p>
+<p class="text">Group Bar graph of categories to compare Arizona against Nevada in the number of businesses in each state</p>
 
 <div class='tableauPlaceholder' id='viz1553965857950' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ye&#47;YelpVisualisation&#47;YelpDataVisualisation&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='YelpVisualisation&#47;YelpDataVisualisation' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ye&#47;YelpVisualisation&#47;YelpDataVisualisation&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1553965857950');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 

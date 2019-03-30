@@ -1,66 +1,66 @@
 [
     {
-        "categorie": "Bars", 
+        "categorie": "Bars",
         "values": [
             {
-                "value": 1179, 
-                "rate": "Arizona"
-            }, 
+                "value": 1179,
+                "state": "Arizona"
+            },
             {
-                "value": 1025, 
-                "rate": "Nevada"
+                "value": 1025,
+                "state": "Nevada"
             }
         ]
-    }, 
+    },
     {
-        "categorie": "Doctors", 
+        "categorie": "Doctors",
         "values": [
             {
-                "value": 2018, 
-                "rate": "Arizona"
+                "value": 2018,
+                "state": "Arizona"
             }, 
             {
-                "value": 1154, 
-                "rate": "Nevada"
+                "value": 1154,
+                "state": "Nevada"
             }
         ]
-    }, 
+    },
     {
-        "categorie": "Health & Medical", 
+        "categorie": "Health & Medical",
         "values": [
             {
-                "value": 5073, 
-                "rate": "Arizona"
-            }, 
+                "value": 5073,
+                "state": "Arizona"
+            },
             {
-                "value": 2740, 
-                "rate": "Nevada"
+                "value": 2740,
+                "state": "Nevada"
             }
         ]
-    }, 
+    },
     {
-        "categorie": "Home Services", 
+        "categorie": "Home Services",
         "values": [
             {
-                "value": 6210, 
-                "rate": "Arizona"
-            }, 
+                "value": 6210,
+                "state": "Arizona"
+            },
             {
-                "value": 3290, 
-                "rate": "Nevada"
+                "value": 3290,
+                "state": "Nevada"
             }
         ]
-    }, 
+    },
     {
-        "categorie": "Restaurants", 
+        "categorie": "Restaurants",
         "values": [
             {
-                "value": 5538, 
-                "rate": "Arizona"
-            }, 
+                "value": 5538,
+                "state": "Arizona"
+            },
             {
-                "value": 3694, 
-                "rate": "Nevada"
+                "value": 3694,
+                "state": "Nevada"
             }
         ]
     }
