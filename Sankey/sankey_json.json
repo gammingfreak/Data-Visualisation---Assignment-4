@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "name": "Bars"
+    },
+    {
+      "name": "Doctors"
+    },
+    {
+      "name": "Health & Medical"
+    },
+    {
+      "name": "Local Services"
+    },
+    {
+      "name": "Restaurants"
+    },
+    {
+      "name": "Boulder City"
+    },
+    {
+      "name": "Henderson"
+    },
+    {
+      "name": "Las Vegas"
+    },
+    {
+      "name": "Phoenix"
+    },
+    {
+      "name": "Scottsdale"
+    },
+    {
+      "name": "Tempe"
+    },
+    {
+      "name": "Arizona"
+    },
+    {
+      "name": "Nevada"
+    }
+  ],
+  "links": [
+    {
+      "source":  "Arizona",
+      "target":  "Phoenix",
+      "value": 75.7
+    },
+    {
+      "source":  "Arizona",
+      "target": "Scottsdale",
+      "value": 77.10000000000001
+    },
+    {
+      "source":  "Arizona",
+      "target":  "Tempe",
+      "value": 72.3
+    },
+    {
+      "source": "Nevada",
+      "target":  "Boulder City",
+      "value": 175.6
+    },
+    {
+      "source": "Nevada",
+      "target": "Henderson",
+      "value": 56.800000000000004
+    },
+    {
+      "source": "Nevada",
+      "target":  "Las Vegas",
+      "value": 50.7
+    },
+    {
+      "source":  "Phoenix",
+      "target": "Bars",
+      "value": 2.2
+    },
+    {
+      "source":  "Phoenix",
+      "target": "Doctors",
+      "value": 25.2
+    },
+    {
+      "source":  "Phoenix",
+      "target": "Health & Medical",
+      "value": 25
+    },
+    {
+      "source":  "Phoenix",
+      "target": "Local Services",
+      "value": 20.1
+    },
+    {
+      "source":  "Phoenix",
+      "target": "Restaurants",
+      "value": 3.2
+    },
+    {
+      "source": "Scottsdale",
+      "target": "Bars",
+      "value": 2.1
+    },
+    {
+      "source": "Scottsdale",
+      "target": "Doctors",
+      "value": 25
+    },
+    {
+      "source": "Scottsdale",
+      "target": "Health & Medical",
+      "value": 26.1
+    },
+    {
+      "source": "Scottsdale",
+      "target": "Local Services",
+      "value": 21.5
+    },
+    {
+      "source": "Scottsdale",
+      "target": "Restaurants",
+      "value": 2.4
+    },
+    {
+      "source":  "Tempe",
+      "target": "Bars",
+      "value": 2.3
+    },
+    {
+      "source":  "Tempe",
+      "target": "Doctors",
+      "value": 23
+    },
+    {
+      "source":  "Tempe",
+      "target": "Health & Medical",
+      "value": 24.4
+    },
+    {
+      "source":  "Tempe",
+      "target": "Local Services",
+      "value": 19.5
+    },
+    {
+      "source":  "Tempe",
+      "target": "Restaurants",
+      "value": 3.1
+    },
+    {
+      "source": "Boulder City",
+      "target": "Bars",
+      "value": 3.7
+    },
+    {
+      "source": "Boulder City",
+      "target": "Doctors",
+      "value": 34.3
+    },
+    {
+      "source": "Boulder City",
+      "target": "Health & Medical",
+      "value": 64.2
+    },
+    {
+      "source": "Boulder City",
+      "target": "Local Services",
+      "value": 70.2
+    },
+    {
+      "source": "Boulder City",
+      "target": "Restaurants",
+      "value": 3.2
+    },
+    {
+      "source": "Henderson",
+      "target": "Bars",
+      "value": 3
+    },
+    {
+      "source": "Henderson",
+      "target": "Doctors",
+      "value": 15.6
+    },
+    {
+      "source": "Henderson",
+      "target": "Health & Medical",
+      "value": 17.5
+    },
+    {
+      "source": "Henderson",
+      "target": "Local Services",
+      "value": 18
+    },
+    {
+      "source": "Henderson",
+      "target": "Restaurants",
+      "value": 2.7
+    },
+    {
+      "source": "Las Vegas",
+      "target": "Bars",
+      "value": 1.6
+    },
+    {
+      "source": "Las Vegas",
+      "target": "Doctors",
+      "value": 15.5
+    },
+    {
+      "source": "Las Vegas",
+      "target": "Health & Medical",
+      "value": 15.5
+    },
+    {
+      "source": "Las Vegas",
+      "target": "Local Services",
+      "value": 16.4
+    },
+    {
+      "source": "Las Vegas",
+      "target": "Restaurants",
+      "value": 1.7
+    }
+  ]
+}

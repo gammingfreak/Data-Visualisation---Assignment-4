@@ -1,0 +1,67 @@
+[
+    {
+        "categorie": "Bars", 
+        "values": [
+            {
+                "value": 1179, 
+                "rate": "Arizona"
+            }, 
+            {
+                "value": 1025, 
+                "rate": "Nevada"
+            }
+        ]
+    }, 
+    {
+        "categorie": "Doctors", 
+        "values": [
+            {
+                "value": 2018, 
+                "rate": "Arizona"
+            }, 
+            {
+                "value": 1154, 
+                "rate": "Nevada"
+            }
+        ]
+    }, 
+    {
+        "categorie": "Health & Medical", 
+        "values": [
+            {
+                "value": 5073, 
+                "rate": "Arizona"
+            }, 
+            {
+                "value": 2740, 
+                "rate": "Nevada"
+            }
+        ]
+    }, 
+    {
+        "categorie": "Home Services", 
+        "values": [
+            {
+                "value": 6210, 
+                "rate": "Arizona"
+            }, 
+            {
+                "value": 3290, 
+                "rate": "Nevada"
+            }
+        ]
+    }, 
+    {
+        "categorie": "Restaurants", 
+        "values": [
+            {
+                "value": 5538, 
+                "rate": "Arizona"
+            }, 
+            {
+                "value": 3694, 
+                "rate": "Nevada"
+            }
+        ]
+    }
+]
