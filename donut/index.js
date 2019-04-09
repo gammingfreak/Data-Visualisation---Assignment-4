@@ -55,7 +55,7 @@ function donutChart() {
                 .attr('dy', '.35em')
                 .html(function(d) {
 
-                    return d.data[category] + ': <tspan>' + d.data[variable] + '</tspan>';
+                    return d.data[category] + ': <tspan>' + percentFormat(d.data[variable]/100) + '</tspan>';
                 })
                 .attr('transform', function(d) {
 

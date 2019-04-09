@@ -1,0 +1,67 @@
+[
+	{
+	"categorie":"Bars",
+ "values": [
+		 {
+				"state": "Arizona",
+				"value": 4345
+		 },
+		 {
+				"state": "Nevada",
+				"value": 3754.5
+		 }
+	]
+},
+{
+"categorie":"Doctors",
+"values":    [
+	 {
+			"state": "Arizona",
+			"value": 7228
+	 },
+	 {
+			"state": "Nevada",
+			"value": 4000.5
+	 }
+]
+},
+{
+"categorie":"Health & Medical",
+"values":    [
+	 {
+			"state": "Arizona",
+			"value": 19805
+	 },
+	 {
+			"state": "Nevada",
+			"value": 10494
+	 }
+]
+},
+	{
+   "categorie":"Local Services",
+	"values":    [
+      {
+         "state": "Arizona",
+         "value": 23354.5
+      },
+      {
+         "state": "Nevada",
+         "value": 12233
+      }
+   ]
+   },
+   {
+   "categorie":"Restaurants",
+	"values":    [
+      {
+         "state": "Arizona",
+         "value": 19238.5
+      },
+      {
+         "state": "Nevada",
+         "value": 12895.5
+      }
+   ]
+   }
+]
